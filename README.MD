@@ -36,7 +36,7 @@ Before using this project, ensure you have the following installed:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/endeavouros-docker.git
+   git clone https://github.com/alex5402/endeavouros-docker.git
    cd endeavouros-docker
    ```
 
