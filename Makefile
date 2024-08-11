@@ -15,7 +15,7 @@ build:
 # Target to clean up intermediate images and containers
 .PHONY: clean
 clean:
-	docker system prune -f
+	docker rmi -f endeavouros:latest 
 
 # Target to remove the Docker image
 .PHONY: remove
