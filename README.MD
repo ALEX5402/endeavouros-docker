@@ -115,11 +115,3 @@ Contributions are welcome! If you have suggestions or improvements, please open 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
-
-### Notes:
-
-- Replace `https://github.com/yourusername/endeavouros-docker.git` with your actual GitHub repository URL.
-- Update the "Contributing" and "License" sections as per your project’s requirements.
-- You might want to add specific details about your `Dockerfile` or any other configurations you have set up if needed.
-
-This `README.md` provides a clear overview of your project and instructions on how to use it, making it easier for others to understand and contribute.
