@@ -1,7 +1,3 @@
-Certainly! Here's a sample `README.md` template for your GitHub repository that describes the Docker image setup process and usage with the provided `Makefile`.
-
----
-
 # EndeavourOS Docker Image
 
 This repository contains a Docker setup for creating and managing an EndeavourOS-based Docker image. The `Makefile` provided automates the build process, container management, and cleanup tasks.
